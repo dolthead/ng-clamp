@@ -1,18 +1,18 @@
 {
   "name": "ng-clamp-es5",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Angular wrapper directive for clamp.js",
   "main": "ng-clamp.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dolthead/ng-clamp.git"
+    "url": "git+https://github.com/dolthead/ng-clamp-es5.git"
   },
   "author": "Vygintas Ranonis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dolthead/ng-clamp/issues"
+    "url": "https://github.com/dolthead/ng-clamp-es5/issues"
   },
-  "homepage": "https://github.com/dolthead/ng-clamp#readme",
+  "homepage": "https://github.com/dolthead/ng-clamp-es5#readme",
   "devDependencies": {
     "angular": "1.5.3",
     "clamp-js": "^0.7.0",
