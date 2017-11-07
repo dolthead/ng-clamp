@@ -16,6 +16,16 @@
   },
   "ignore": [
     "node_modules",
-    "**/.*"
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/dolthead/ng-clamp-es5",
+  "keywords": [
+    "phantomjs",
+    "casperjs",
+    "clampjs",
+    "angularjs"
   ]
 }
