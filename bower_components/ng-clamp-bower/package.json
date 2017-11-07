@@ -1,0 +1,20 @@
+{
+  "name": "ng-clamp",
+  "version": "1.0.4",
+  "description": "Angular wrapper directive for clamp.js",
+  "main": "ng-clamp.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vygis/ng-clamp.git"
+  },
+  "author": "Vygintas Ranonis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vygis/ng-clamp/issues"
+  },
+  "homepage": "https://github.com/vygis/ng-clamp#readme",
+  "devDependencies": {
+    "clamp-js": "^0.7.0",
+    "gulp": "^3.9.1"
+  }
+}

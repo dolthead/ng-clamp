@@ -1,8 +1,7 @@
 {
   "name": "ng-clamp-es5",
   "main": [
-    "ng-clamp.js",
-    "ng-clamp.min.js"
+    "ng-clamp.js"
   ],
   "authors": [
     "Vygintas Ranonis",
