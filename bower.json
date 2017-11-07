@@ -1,14 +1,18 @@
 {
-  "name": "ng-clamp-bower",
+  "name": "ng-clamp-es5",
   "main": [
-      "ng-clamp.js"
+    "ng-clamp.js",
+    "ng-clamp.min.js"
   ],
-  "authors": ["Vygintas Ranonis"],
+  "authors": [
+    "Vygintas Ranonis",
+    "Todd Hale"
+  ],
   "description": "Angular 1.x wrapper for clamp.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vygis/ng-clamp.git"
+    "url": "https://github.com/dolthead/ng-clamp-es5.git"
   },
   "ignore": [
     "node_modules",
