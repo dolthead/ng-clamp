@@ -2,7 +2,7 @@
   "name": "ng-clamp-es5",
   "version": "1.0.11",
   "description": "Angular wrapper directive for clamp.js",
-  "main": "ng-clamp.min.js",
+  "main": "ng-clamp.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dolthead/ng-clamp-es5.git"
